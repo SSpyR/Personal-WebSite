@@ -12,7 +12,7 @@ Site is purely just HTML and CSS, may mess around with some JavaScript elements 
 
 # Site
 
-You can find the link to the hosted site here: <>
+You can find the link to the hosted site here: <http://angel-lavoie.net>
 
 # Contact
 Email: <lavoiea@angel-lavoie.net>
