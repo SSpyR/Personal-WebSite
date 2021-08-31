@@ -14,6 +14,8 @@ Site is purely just HTML and CSS, may mess around with some JavaScript elements 
 
 Also have a `composer.json` and a `index.php` but don't be fooled, these files are simply to trick Heroku a bit to host the site using the Official PHP Buildpack
 
+(Sidebar Fanart of ViVi done by kiwipanic on DeviantArt)
+
 # Site
 
 You can find the link to the hosted site here: <http://www.angel-lavoie.net>
