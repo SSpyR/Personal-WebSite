@@ -6,6 +6,8 @@ Mainly through the help of the HTML and CSS template provided by <https://www.w3
 
 Absolutely wonderful site, would highly recommend checking them out for any programming education.
 
+([Template Used](<https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_dark_portfolio&stacked=h>))
+
 # Info
 
 Site is purely just HTML and CSS, may mess around with some JavaScript elements later on but it wasn't needed so far.
