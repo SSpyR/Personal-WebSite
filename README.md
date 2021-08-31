@@ -12,6 +12,8 @@ Absolutely wonderful site, would highly recommend checking them out for any prog
 
 Site is purely just HTML and CSS, may mess around with some JavaScript elements later on but it wasn't needed so far.
 
+Also have a `composer.json` and a `index.php` but don't be fooled, these files are simply to trick Heroku a bit to host the site using the Official PHP Buildpack
+
 # Site
 
 You can find the link to the hosted site here: <http://angel-lavoie.net>
