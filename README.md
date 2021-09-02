@@ -21,6 +21,7 @@ Also have a `composer.json` and a `index.php` but don't be fooled, these files a
 You can find the link to the hosted site here: <http://www.angel-lavoie.net>
 
 # Contact
+
 Email: <lavoiea@angel-lavoie.net>
 
 Twitter: [@angel_the_aglet](<https://twitter.com/angel_the_aglet>)
